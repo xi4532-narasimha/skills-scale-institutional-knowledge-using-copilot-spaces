@@ -24,6 +24,12 @@ The project lifecycle is structured into distinct phases:
 - **Product Manager (PdM)**: Defines problem statements, prioritizes the backlog, and measures outcomes
 - **Developers**: Implement features, maintain high code quality, and participate in estimation and design reviews
 - **QA/Testing**: Ensure deliverables meet documented acceptance criteria through automated and manual testing
+- **UX Designer**: Designs user experiences, conducts research, and ensures accessibility and usability
+- **Release Manager**: Plans and coordinates releases, manages deployment schedules, and ensures release readiness
+- **Customer Support / Success**: Represents customer voice, triages issues, and provides feedback loops to product teams
+- **Security Engineer**: Reviews code for security vulnerabilities, ensures compliance, and partners with teams on secure solutions
+
+For detailed role descriptions, responsibilities, and interaction patterns, see [Roles and Personas](./octoacme-roles-and-personas.md).
 
 #### Communication Cadence
 
